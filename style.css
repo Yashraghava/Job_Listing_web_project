@@ -1,0 +1,15 @@
+body.login{
+  background-color: gainsboro;
+  max-width: 100%;
+  font-family: arial !important;
+  max-height:100%;
+}
+
+.bx{
+  box-shadow:2px 2px 18px rgba(0,0,0,0.2);
+}
+
+.card-border{
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  border:0px;
+}
